@@ -65,6 +65,7 @@ function getRollCounts(rolls) {
 
   for (let i = 0; i < rolls.length; i++) {
   }
+  
 }
 
 // Do not change the code below here.
